@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeByMarkh
 - 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ...game development with JD
+- 🌱 I’m currently learning ...game development with JS
 - 💞️ I’m looking to collaborate on ...games
 - 📫 How to reach me ...IG m.a.r.k_yrn
 - 😄 Pronouns: ...
