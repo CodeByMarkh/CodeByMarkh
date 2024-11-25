@@ -1,4 +1,4 @@
-# 💫 Hi I'm Mark!
+# 👋 Hi I'm Mark!
 M y name is Mark I am a front end web developer currently in love with game development<br>🔭 I’m currently working on Improving my development skills through internships<br>👯 I’m looking to collaborate on game development with JS<br>🌱 I’m currently learning API integrations<br>💬 Ask me about how life is going<br>⚡ Fun fact I love playing chess
 
 
